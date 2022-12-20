@@ -3,8 +3,6 @@ on:
   push:
     branches:
       - docs
-    branches-ignore:
-      - gh-pages
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
