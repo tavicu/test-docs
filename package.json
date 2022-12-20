@@ -1,0 +1,22 @@
+{
+  "name": "test-docs",
+  "version": "1.0.0",
+  "description": "Docs",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tavicu/test-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tavicu/test-docs/issues"
+  },
+  "homepage": "https://github.com/tavicu/test-docs#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
